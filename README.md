@@ -12,7 +12,7 @@ A simple and customizable password generator built with Python. This project all
 
 ## Screenshot
 
-("C:\Users\yuvar\OneDrive\Pictures\Screenshots\Screenshot (65).png")
+![Alt Text](https://your-image-url.com/Screenshot (65).png)
 
 ## License
 
