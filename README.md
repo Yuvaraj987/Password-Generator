@@ -4,49 +4,15 @@ A simple and customizable password generator built with Python. This project all
 
 ## Features
 
-- Generate strong, random passwords
-- Customize password length
-- Choose character sets: uppercase, lowercase, digits, special characters
-- User-friendly interface
+- 🔐 Generate strong, random passwords
+- 🔢 Customize password length
+- 🔡 Choose character sets: uppercase, lowercase, digits, special characters
+- 🛡️ User-friendly interface
+- 🕒 Password History — View recently generated passwords
 
-## Getting Started
+## Screenshot
 
-### Prerequisites
-
-- Python 3.x
-
-### Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/Yuvaraj987/Password-Generator.git
-cd Password-Generator
-```
-
-### Usage
-
-Run the script:
-```bash
-python password_generator.py
-```
-
-Follow the prompts to set your preferences and generate a password.
-
-## Example
-
-```
-Enter desired password length: 12
-Include uppercase letters? (y/n): y
-Include lowercase letters? (y/n): y
-Include digits? (y/n): y
-Include special characters? (y/n): y
-
-Generated password: Vx$2jK9q!pWz
-```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for suggestions or improvements.
+![App Screenshot](https://i.imgur.com/Screenshot (65).png)
 
 ## License
 
